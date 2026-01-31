@@ -1,0 +1,8 @@
+{
+  "name": "LOVABLE INFINITO",
+  "description": "Uma plataforma moderna de cursos online com área do estudante estilo app mobile e painel administrativo completo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
